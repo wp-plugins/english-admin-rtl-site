@@ -1,5 +1,5 @@
 === English Admin RTL Site ===
-Contributors: adamtal, SergeyBiryukov
+Contributors: adamtal
 Tags: rtl, css, stylesheet, theme, Hebrew, English, Arabic
 Requires at least: 3.0
 Tested up to: 3.1
