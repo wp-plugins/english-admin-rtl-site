@@ -13,6 +13,8 @@ Allows you to use English Admin, with your RTL Site. Activate and if your themes
 
 Based on SergeyBiryukov's "Include Parent Theme RTL CSS" plugin.
 
+Built especially for the members of www.Internetboss.co.il and with their support.
+
 == Installation ==
 
 Activate, enjoy.
